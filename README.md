@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vanshkumar-work/Leetcode/tree/master/0012-integer-to-roman) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshkumar-work/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/vanshkumar-work/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshkumar-work/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vanshkumar-work/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3941-password-strength](https://github.com/vanshkumar-work/Leetcode/tree/master/3941-password-strength) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/vanshkumar-work/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Linked List
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/vanshkumar-work/LeetCode/tree/master/0061-rotate-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vanshkumar-work/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+## Counting
+|  |
+| ------- |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/vanshkumar-work/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 <!---LeetCode Topics End-->
