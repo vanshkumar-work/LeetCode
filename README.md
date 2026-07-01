@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/vanshkumar-work/LeetCode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshkumar-work/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/vanshkumar-work/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -74,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/vanshkumar-work/LeetCode/tree/master/0061-rotate-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/vanshkumar-work/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
