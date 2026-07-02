@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vanshkumar-work/Leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/vanshkumar-work/Leetcode/tree/master/0041-first-missing-positive) |
+| [0142-linked-list-cycle-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshkumar-work/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3941-password-strength](https://github.com/vanshkumar-work/Leetcode/tree/master/3941-password-strength) |
 ## Math
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/vanshkumar-work/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/vanshkumar-work/LeetCode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0445-add-two-numbers-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshkumar-work/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vanshkumar-work/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/vanshkumar-work/LeetCode/tree/master/0061-rotate-list) |
+| [0142-linked-list-cycle-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vanshkumar-work/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Counting
 |  |
