@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/vanshkumar-work/Leetcode/tree/master/0041-first-missing-positive) |
+| [0496-next-greater-element-i](https://github.com/vanshkumar-work/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/vanshkumar-work/LeetCode/tree/master/0724-find-pivot-index) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vanshkumar-work/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vanshkumar-work/Leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/vanshkumar-work/Leetcode/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/vanshkumar-work/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshkumar-work/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3941-password-strength](https://github.com/vanshkumar-work/Leetcode/tree/master/3941-password-strength) |
 ## Math
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/vanshkumar-work/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vanshkumar-work/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/vanshkumar-work/LeetCode/tree/master/1544-make-the-string-great) |
@@ -146,5 +149,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/vanshkumar-work/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
