@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vanshkumar-work/Leetcode/tree/master/0012-integer-to-roman) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshkumar-work/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1544-make-the-string-great](https://github.com/vanshkumar-work/LeetCode/tree/master/1544-make-the-string-great) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/vanshkumar-work/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vanshkumar-work/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vanshkumar-work/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vanshkumar-work/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1544-make-the-string-great](https://github.com/vanshkumar-work/LeetCode/tree/master/1544-make-the-string-great) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/vanshkumar-work/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Prefix Sum
 |  |
