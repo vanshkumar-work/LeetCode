@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vanshkumar-work/LeetCode/tree/master/0739-daily-temperatures) |
 | [1301-number-of-paths-with-max-score](https://github.com/vanshkumar-work/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vanshkumar-work/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vanshkumar-work/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshkumar-work/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vanshkumar-work/LeetCode/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vanshkumar-work/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vanshkumar-work/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/vanshkumar-work/LeetCode/tree/master/1544-make-the-string-great) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/vanshkumar-work/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Prefix Sum
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vanshkumar-work/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vanshkumar-work/LeetCode/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vanshkumar-work/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
