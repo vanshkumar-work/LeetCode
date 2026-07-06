@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vanshkumar-work/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshkumar-work/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3941-password-strength](https://github.com/vanshkumar-work/Leetcode/tree/master/3941-password-strength) |
+| [3945-digit-frequency-score](https://github.com/vanshkumar-work/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/vanshkumar-work/LeetCode/tree/master/0224-basic-calculator) |
 | [0445-add-two-numbers-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshkumar-work/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3945-digit-frequency-score](https://github.com/vanshkumar-work/LeetCode/tree/master/3945-digit-frequency-score) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/vanshkumar-work/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## String
 |  |
