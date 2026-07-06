@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/vanshkumar-work/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vanshkumar-work/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/vanshkumar-work/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1991-find-the-middle-index-in-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshkumar-work/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vanshkumar-work/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/vanshkumar-work/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vanshkumar-work/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/vanshkumar-work/LeetCode/tree/master/1544-make-the-string-great) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/vanshkumar-work/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/vanshkumar-work/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Prefix Sum
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/vanshkumar-work/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/vanshkumar-work/LeetCode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vanshkumar-work/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/vanshkumar-work/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/vanshkumar-work/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Simulation
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vanshkumar-work/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vanshkumar-work/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vanshkumar-work/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/vanshkumar-work/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
