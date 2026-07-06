@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vanshkumar-work/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/vanshkumar-work/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/vanshkumar-work/LeetCode/tree/master/0029-divide-two-integers) |
+| [0224-basic-calculator](https://github.com/vanshkumar-work/LeetCode/tree/master/0224-basic-calculator) |
 | [0445-add-two-numbers-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshkumar-work/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/vanshkumar-work/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/vanshkumar-work/Leetcode/tree/master/0012-integer-to-roman) |
+| [0224-basic-calculator](https://github.com/vanshkumar-work/LeetCode/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/vanshkumar-work/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/vanshkumar-work/LeetCode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vanshkumar-work/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshkumar-work/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/vanshkumar-work/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0224-basic-calculator](https://github.com/vanshkumar-work/LeetCode/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/vanshkumar-work/LeetCode/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/vanshkumar-work/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/vanshkumar-work/LeetCode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0445-add-two-numbers-ii) |
