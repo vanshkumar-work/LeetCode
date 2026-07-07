@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshkumar-work/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vanshkumar-work/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3945-digit-frequency-score](https://github.com/vanshkumar-work/LeetCode/tree/master/3945-digit-frequency-score) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/vanshkumar-work/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## String
