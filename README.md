@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshkumar-work/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vanshkumar-work/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3945-digit-frequency-score](https://github.com/vanshkumar-work/LeetCode/tree/master/3945-digit-frequency-score) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/vanshkumar-work/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## String
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/vanshkumar-work/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vanshkumar-work/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vanshkumar-work/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3941-password-strength](https://github.com/vanshkumar-work/Leetcode/tree/master/3941-password-strength) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/vanshkumar-work/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Linked List
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vanshkumar-work/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
 | ------- |
