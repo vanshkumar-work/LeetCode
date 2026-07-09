@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshkumar-work/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1323-maximum-69-number](https://github.com/vanshkumar-work/LeetCode/tree/master/1323-maximum-69-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vanshkumar-work/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/vanshkumar-work/LeetCode/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vanshkumar-work/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vanshkumar-work/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1323-maximum-69-number](https://github.com/vanshkumar-work/LeetCode/tree/master/1323-maximum-69-number) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/vanshkumar-work/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/vanshkumar-work/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Simulation
