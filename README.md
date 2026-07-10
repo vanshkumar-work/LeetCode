@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vanshkumar-work/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/vanshkumar-work/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/vanshkumar-work/LeetCode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/vanshkumar-work/LeetCode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vanshkumar-work/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/vanshkumar-work/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshkumar-work/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/vanshkumar-work/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/vanshkumar-work/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/vanshkumar-work/LeetCode/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
