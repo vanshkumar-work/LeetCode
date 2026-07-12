@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/vanshkumar-work/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/vanshkumar-work/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vanshkumar-work/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1991-find-the-middle-index-in-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vanshkumar-work/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshkumar-work/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vanshkumar-work/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/vanshkumar-work/LeetCode/tree/master/1544-make-the-string-great) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/vanshkumar-work/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vanshkumar-work/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/vanshkumar-work/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Prefix Sum
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/vanshkumar-work/LeetCode/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vanshkumar-work/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vanshkumar-work/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vanshkumar-work/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2169-count-operations-to-obtain-zero](https://github.com/vanshkumar-work/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Depth-First Search
@@ -299,5 +302,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/vanshkumar-work/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vanshkumar-work/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vanshkumar-work/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
