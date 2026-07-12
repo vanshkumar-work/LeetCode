@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vanshkumar-work/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vanshkumar-work/LeetCode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/vanshkumar-work/LeetCode/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/vanshkumar-work/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/vanshkumar-work/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/vanshkumar-work/LeetCode/tree/master/0402-remove-k-digits) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vanshkumar-work/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/vanshkumar-work/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/vanshkumar-work/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vanshkumar-work/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vanshkumar-work/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/vanshkumar-work/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vanshkumar-work/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vanshkumar-work/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
