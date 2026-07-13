@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vanshkumar-work/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/vanshkumar-work/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vanshkumar-work/LeetCode/tree/master/0641-design-circular-deque) |
 | [0724-find-pivot-index](https://github.com/vanshkumar-work/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/vanshkumar-work/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vanshkumar-work/LeetCode/tree/master/0739-daily-temperatures) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0445-add-two-numbers-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/vanshkumar-work/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vanshkumar-work/LeetCode/tree/master/0641-design-circular-deque) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshkumar-work/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vanshkumar-work/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vanshkumar-work/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vanshkumar-work/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/vanshkumar-work/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vanshkumar-work/LeetCode/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/vanshkumar-work/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vanshkumar-work/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vanshkumar-work/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vanshkumar-work/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/vanshkumar-work/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vanshkumar-work/LeetCode/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/vanshkumar-work/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vanshkumar-work/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vanshkumar-work/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
