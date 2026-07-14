@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vanshkumar-work/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/vanshkumar-work/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/vanshkumar-work/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/vanshkumar-work/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vanshkumar-work/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/vanshkumar-work/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vanshkumar-work/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vanshkumar-work/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/vanshkumar-work/LeetCode/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/vanshkumar-work/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/vanshkumar-work/LeetCode/tree/master/1291-sequential-digits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vanshkumar-work/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
