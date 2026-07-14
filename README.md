@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vanshkumar-work/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vanshkumar-work/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/vanshkumar-work/LeetCode/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/vanshkumar-work/LeetCode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/vanshkumar-work/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vanshkumar-work/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/vanshkumar-work/LeetCode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/vanshkumar-work/LeetCode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/vanshkumar-work/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/vanshkumar-work/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
