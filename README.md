@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/vanshkumar-work/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vanshkumar-work/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3913-sort-vowels-by-frequency](https://github.com/vanshkumar-work/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 | [3941-password-strength](https://github.com/vanshkumar-work/Leetcode/tree/master/3941-password-strength) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/vanshkumar-work/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Linked List
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3913-sort-vowels-by-frequency](https://github.com/vanshkumar-work/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/vanshkumar-work/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Graph Theory
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/vanshkumar-work/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3913-sort-vowels-by-frequency](https://github.com/vanshkumar-work/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 ## Brainteaser
 |  |
 | ------- |
