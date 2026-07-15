@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vanshkumar-work/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/vanshkumar-work/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/vanshkumar-work/LeetCode/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/vanshkumar-work/LeetCode/tree/master/0649-dota2-senate) |
 | [0856-score-of-parentheses](https://github.com/vanshkumar-work/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vanshkumar-work/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vanshkumar-work/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vanshkumar-work/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/vanshkumar-work/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/vanshkumar-work/LeetCode/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/vanshkumar-work/LeetCode/tree/master/0649-dota2-senate) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vanshkumar-work/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vanshkumar-work/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/vanshkumar-work/LeetCode/tree/master/1323-maximum-69-number) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vanshkumar-work/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/vanshkumar-work/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vanshkumar-work/LeetCode/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/vanshkumar-work/LeetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/vanshkumar-work/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vanshkumar-work/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vanshkumar-work/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
