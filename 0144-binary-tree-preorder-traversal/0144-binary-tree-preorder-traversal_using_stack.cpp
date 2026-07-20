@@ -24,6 +24,5 @@ public:
             if(curr->left!=NULL) st.push(curr->left) ;
         }
         return ans ;
-        
     }
 };
