@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!! - Created using
 | [0503-next-greater-element-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshkumar-work/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/vanshkumar-work/LeetCode/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar-work/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/vanshkumar-work/LeetCode/tree/master/0641-design-circular-deque) |
 | [0724-find-pivot-index](https://github.com/vanshkumar-work/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/vanshkumar-work/LeetCode/tree/master/0735-asteroid-collision) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!! - Created using
 | [0227-basic-calculator-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/vanshkumar-work/LeetCode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar-work/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshkumar-work/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/vanshkumar-work/LeetCode/tree/master/1323-maximum-69-number) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!! - Created using
 | [0179-largest-number](https://github.com/vanshkumar-work/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/vanshkumar-work/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vanshkumar-work/LeetCode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar-work/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vanshkumar-work/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1288-remove-covered-intervals](https://github.com/vanshkumar-work/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1331-rank-transform-of-an-array) |
