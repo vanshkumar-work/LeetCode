@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0171-excel-sheet-column-number](https://github.com/vanshkumar-work/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/vanshkumar-work/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0292-nim-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/vanshkumar-work/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar-work/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -393,10 +394,12 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
 ## Divide and Conquer
 |  |
