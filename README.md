@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/vanshkumar-work/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/vanshkumar-work/LeetCode/tree/master/3099-harshad-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vanshkumar-work/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vanshkumar-work/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [1544-make-the-string-great](https://github.com/vanshkumar-work/LeetCode/tree/master/1544-make-the-string-great) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/vanshkumar-work/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vanshkumar-work/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vanshkumar-work/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [1323-maximum-69-number](https://github.com/vanshkumar-work/LeetCode/tree/master/1323-maximum-69-number) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/vanshkumar-work/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/vanshkumar-work/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
