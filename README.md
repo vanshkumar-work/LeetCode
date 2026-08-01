@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0198-house-robber](https://github.com/vanshkumar-work/LeetCode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vanshkumar-work/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0486-predict-the-winner](https://github.com/vanshkumar-work/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/vanshkumar-work/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshkumar-work/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0227-basic-calculator-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0292-nim-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/vanshkumar-work/LeetCode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/vanshkumar-work/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar-work/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0024-swap-nodes-in-pairs](https://github.com/vanshkumar-work/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/vanshkumar-work/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/vanshkumar-work/LeetCode/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/vanshkumar-work/LeetCode/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0070-climbing-stairs](https://github.com/vanshkumar-work/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vanshkumar-work/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/vanshkumar-work/LeetCode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/vanshkumar-work/LeetCode/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/vanshkumar-work/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/vanshkumar-work/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/vanshkumar-work/LeetCode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
 ## Divide and Conquer
 |  |
