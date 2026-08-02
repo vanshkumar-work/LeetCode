@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0735-asteroid-collision](https://github.com/vanshkumar-work/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vanshkumar-work/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/vanshkumar-work/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vanshkumar-work/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/vanshkumar-work/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/vanshkumar-work/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0486-predict-the-winner](https://github.com/vanshkumar-work/LeetCode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/vanshkumar-work/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar-work/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshkumar-work/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/vanshkumar-work/LeetCode/tree/master/1323-maximum-69-number) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0392-is-subsequence](https://github.com/vanshkumar-work/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/vanshkumar-work/LeetCode/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/vanshkumar-work/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/vanshkumar-work/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vanshkumar-work/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | ------- |
 | [0292-nim-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/vanshkumar-work/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
 ## Divide and Conquer
 |  |
