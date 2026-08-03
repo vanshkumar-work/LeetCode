@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0622-design-circular-queue](https://github.com/vanshkumar-work/LeetCode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar-work/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/vanshkumar-work/LeetCode/tree/master/0641-design-circular-deque) |
+| [0704-binary-search](https://github.com/vanshkumar-work/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vanshkumar-work/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/vanshkumar-work/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vanshkumar-work/LeetCode/tree/master/0739-daily-temperatures) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0033-search-in-rotated-sorted-array](https://github.com/vanshkumar-work/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanshkumar-work/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshkumar-work/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/vanshkumar-work/LeetCode/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshkumar-work/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vanshkumar-work/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
