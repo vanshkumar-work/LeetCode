@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [1288-remove-covered-intervals](https://github.com/vanshkumar-work/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/vanshkumar-work/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/vanshkumar-work/LeetCode/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vanshkumar-work/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vanshkumar-work/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshkumar-work/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/vanshkumar-work/LeetCode/tree/master/1323-maximum-69-number) |
+| [1406-stone-game-iii](https://github.com/vanshkumar-work/LeetCode/tree/master/1406-stone-game-iii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/vanshkumar-work/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0877-stone-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/vanshkumar-work/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/vanshkumar-work/LeetCode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vanshkumar-work/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0486-predict-the-winner](https://github.com/vanshkumar-work/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/vanshkumar-work/LeetCode/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -548,4 +552,12 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vanshkumar-work/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/vanshkumar-work/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/vanshkumar-work/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
