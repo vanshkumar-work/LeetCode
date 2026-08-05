@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0224-basic-calculator](https://github.com/vanshkumar-work/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0292-nim-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/vanshkumar-work/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/vanshkumar-work/LeetCode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/vanshkumar-work/LeetCode/tree/master/0507-perfect-number) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vanshkumar-work/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanshkumar-work/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/vanshkumar-work/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshkumar-work/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vanshkumar-work/LeetCode/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshkumar-work/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
