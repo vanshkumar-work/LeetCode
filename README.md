@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0735-asteroid-collision](https://github.com/vanshkumar-work/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vanshkumar-work/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/vanshkumar-work/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/vanshkumar-work/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vanshkumar-work/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/vanshkumar-work/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0367-valid-perfect-square](https://github.com/vanshkumar-work/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshkumar-work/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vanshkumar-work/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/vanshkumar-work/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshkumar-work/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vanshkumar-work/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
