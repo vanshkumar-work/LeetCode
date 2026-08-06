@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0950-reveal-cards-in-increasing-order](https://github.com/vanshkumar-work/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanshkumar-work/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/vanshkumar-work/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vanshkumar-work/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/vanshkumar-work/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/vanshkumar-work/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0704-binary-search](https://github.com/vanshkumar-work/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vanshkumar-work/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanshkumar-work/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vanshkumar-work/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshkumar-work/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vanshkumar-work/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
