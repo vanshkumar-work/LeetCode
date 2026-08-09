@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vanshkumar-work/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vanshkumar-work/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshkumar-work/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0344-reverse-string](https://github.com/vanshkumar-work/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vanshkumar-work/LeetCode/tree/master/0392-is-subsequence) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vanshkumar-work/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshkumar-work/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vanshkumar-work/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [2375-construct-smallest-number-from-di-string](https://github.com/vanshkumar-work/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshkumar-work/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/vanshkumar-work/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/vanshkumar-work/LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshkumar-work/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vanshkumar-work/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
