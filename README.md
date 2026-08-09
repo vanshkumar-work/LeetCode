@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0877-stone-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vanshkumar-work/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanshkumar-work/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1140-stone-game-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/vanshkumar-work/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vanshkumar-work/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/vanshkumar-work/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshkumar-work/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/1140-stone-game-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vanshkumar-work/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/vanshkumar-work/LeetCode/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/vanshkumar-work/LeetCode/tree/master/1406-stone-game-iii) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vanshkumar-work/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/vanshkumar-work/LeetCode/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vanshkumar-work/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0746-min-cost-climbing-stairs](https://github.com/vanshkumar-work/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/vanshkumar-work/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/vanshkumar-work/LeetCode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshkumar-work/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0486-predict-the-winner](https://github.com/vanshkumar-work/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vanshkumar-work/LeetCode/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
 |  |
@@ -584,9 +589,11 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vanshkumar-work/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vanshkumar-work/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
