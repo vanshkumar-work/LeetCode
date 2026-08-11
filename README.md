@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0198-house-robber](https://github.com/vanshkumar-work/LeetCode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vanshkumar-work/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0456-132-pattern](https://github.com/vanshkumar-work/LeetCode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/vanshkumar-work/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/vanshkumar-work/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0033-search-in-rotated-sorted-array](https://github.com/vanshkumar-work/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanshkumar-work/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/vanshkumar-work/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0456-132-pattern](https://github.com/vanshkumar-work/LeetCode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshkumar-work/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vanshkumar-work/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vanshkumar-work/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0316-remove-duplicate-letters](https://github.com/vanshkumar-work/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/vanshkumar-work/LeetCode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/vanshkumar-work/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/vanshkumar-work/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/vanshkumar-work/LeetCode/tree/master/0735-asteroid-collision) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0084-largest-rectangle-in-histogram](https://github.com/vanshkumar-work/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/vanshkumar-work/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/vanshkumar-work/LeetCode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/vanshkumar-work/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/vanshkumar-work/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vanshkumar-work/LeetCode/tree/master/0739-daily-temperatures) |
@@ -618,4 +622,8 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/vanshkumar-work/LeetCode/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/vanshkumar-work/LeetCode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
