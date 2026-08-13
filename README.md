@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 | [0041-first-missing-positive](https://github.com/vanshkumar-work/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/vanshkumar-work/LeetCode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vanshkumar-work/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/vanshkumar-work/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vanshkumar-work/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/vanshkumar-work/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/vanshkumar-work/LeetCode/tree/master/0189-rotate-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!!! - Created usin
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/vanshkumar-work/LeetCode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/vanshkumar-work/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/vanshkumar-work/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/vanshkumar-work/LeetCode/tree/master/0389-find-the-difference) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vanshkumar-work/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
