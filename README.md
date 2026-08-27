@@ -95,6 +95,7 @@ A collection of LeetCode question to ace the coding interview!!! - Created using
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vanshkumar-work/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshkumar-work/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/vanshkumar-work/LeetCode/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/vanshkumar-work/Leetcode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/vanshkumar-work/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -186,6 +187,7 @@ A collection of LeetCode question to ace the coding interview!!! - Created using
 | [3499-maximize-active-section-with-trade-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshkumar-work/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3913-sort-vowels-by-frequency](https://github.com/vanshkumar-work/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 | [3941-password-strength](https://github.com/vanshkumar-work/Leetcode/tree/master/3941-password-strength) |
@@ -318,6 +320,7 @@ A collection of LeetCode question to ace the coding interview!!! - Created using
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vanshkumar-work/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshkumar-work/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3913-sort-vowels-by-frequency](https://github.com/vanshkumar-work/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/vanshkumar-work/LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Graph Theory
@@ -395,6 +398,7 @@ A collection of LeetCode question to ace the coding interview!!! - Created using
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vanshkumar-work/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshkumar-work/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -540,6 +544,7 @@ A collection of LeetCode question to ace the coding interview!!! - Created using
 | [3345-smallest-divisible-digit-product-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshkumar-work/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Memoization
 |  |
 | ------- |
