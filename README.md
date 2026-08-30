@@ -56,6 +56,7 @@ A collection of LeetCode question to ace the coding interview!!! - Created using
 | [1991-find-the-middle-index-in-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/vanshkumar-work/LeetCode/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vanshkumar-work/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vanshkumar-work/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vanshkumar-work/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshkumar-work/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshkumar-work/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -393,6 +394,7 @@ A collection of LeetCode question to ace the coding interview!!! - Created using
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanshkumar-work/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/vanshkumar-work/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/vanshkumar-work/LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vanshkumar-work/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/vanshkumar-work/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
