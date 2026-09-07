@@ -182,6 +182,7 @@ A collection of LeetCode question to ace the coding interview!!! - Created using
 | [0649-dota2-senate](https://github.com/vanshkumar-work/LeetCode/tree/master/0649-dota2-senate) |
 | [0856-score-of-parentheses](https://github.com/vanshkumar-work/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vanshkumar-work/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vanshkumar-work/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshkumar-work/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/vanshkumar-work/LeetCode/tree/master/1544-make-the-string-great) |
@@ -478,6 +479,7 @@ A collection of LeetCode question to ace the coding interview!!! - Created using
 | [0486-predict-the-winner](https://github.com/vanshkumar-work/LeetCode/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/vanshkumar-work/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/vanshkumar-work/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/vanshkumar-work/LeetCode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/vanshkumar-work/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
