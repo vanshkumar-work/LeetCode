@@ -48,6 +48,7 @@ A collection of LeetCode question to ace the coding interview!!! - Created using
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vanshkumar-work/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vanshkumar-work/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshkumar-work/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/vanshkumar-work/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/vanshkumar-work/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vanshkumar-work/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -95,6 +96,7 @@ A collection of LeetCode question to ace the coding interview!!! - Created using
 | [0496-next-greater-element-i](https://github.com/vanshkumar-work/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshkumar-work/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshkumar-work/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshkumar-work/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshkumar-work/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -243,6 +245,7 @@ A collection of LeetCode question to ace the coding interview!!! - Created using
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshkumar-work/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshkumar-work/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanshkumar-work/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshkumar-work/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanshkumar-work/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -279,6 +282,7 @@ A collection of LeetCode question to ace the coding interview!!! - Created using
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vanshkumar-work/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vanshkumar-work/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vanshkumar-work/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshkumar-work/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanshkumar-work/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vanshkumar-work/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshkumar-work/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -405,6 +409,7 @@ A collection of LeetCode question to ace the coding interview!!! - Created using
 | [1140-stone-game-ii](https://github.com/vanshkumar-work/LeetCode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vanshkumar-work/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshkumar-work/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vanshkumar-work/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/vanshkumar-work/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vanshkumar-work/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
