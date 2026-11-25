@@ -60,6 +60,7 @@ A collection of LeetCode question to ace the coding interview!!! - Created using
 | [2073-time-needed-to-buy-tickets](https://github.com/vanshkumar-work/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vanshkumar-work/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vanshkumar-work/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vanshkumar-work/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vanshkumar-work/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanshkumar-work/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshkumar-work/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -602,6 +603,7 @@ A collection of LeetCode question to ace the coding interview!!! - Created using
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/vanshkumar-work/LeetCode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vanshkumar-work/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vanshkumar-work/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vanshkumar-work/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
